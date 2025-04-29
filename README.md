@@ -1,6 +1,6 @@
+<H1> This repo contains Python Exercises </H1>
 
-
-3 Python Exercises
+3. Python Exercises
 
     3.1 Simple API with Flask/FastAPI
 
@@ -9,8 +9,8 @@
     3.3 Interacting with an External API
 
 
-
-<H1>Back to other Backend Exercise Solutions</H1>
+<BR>
+<H1>Back to Other Backend Exercise Solutions</H1>
 
 **1. <a href = "https://github.com/sunaina-kapadne/preliminary.git"> Java Exercises </a>**
 
